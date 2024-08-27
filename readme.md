@@ -16,11 +16,11 @@ To add a new version of Node.js or any other language, you would place the docke
 
 ## Available Images
 
-### [Node.js](/nodejs)
+### [Node.js](/NodeJS)
 
-* [`node12`](/nodejs/12)
+* [`node12`](/NodeJS/12.22.12/)
   * `ghcr.io/myusername/nodejs:12`
-* [`node18`](/nodejs/18)
+* [`node18`](/NodeJS/18.20.4/
   * `ghcr.io/myusername/nodejs:18`
 
 ## Usage
@@ -49,5 +49,3 @@ For issues or questions, please open an issue on our [GitHub repository](https:/
 Thank you for using our Docker image! Happy coding! 🚀
 
 ---
-
-**Follow us on [GitHub](https://github.com/myusername/my-node-app) for updates.**
