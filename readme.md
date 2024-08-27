@@ -18,9 +18,9 @@ To add a new version of Node.js or any other language, you would place the docke
 
 ### [Node.js](/NodeJS)
 
-* [`node12`](/NodeJS/12.22.12/)
+* [`Node12`](/NodeJS/12.22.12/)
   * `ghcr.io/myusername/nodejs:12`
-* [`node18`](/NodeJS/18.20.4/
+* [`Node18`](/NodeJS/18.20.4/)
   * `ghcr.io/myusername/nodejs:18`
 
 ## Usage
